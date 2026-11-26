@@ -1,0 +1,29 @@
+{
+  "protocolo": "SYCRO VALDOVINOS - TRAMPA CYMATIC",
+  "fecha": "2026-11-25T19:01:00.826302",
+  "metodo": "GET",
+  "ruta": "/huggingface/models",
+  "ip": "127.0.0.1",
+  "headers": {
+    "Accept-Encoding": "identity",
+    "Host": "127.0.0.1:8765",
+    "User-Agent": "Python-urllib/3.14",
+    "Connection": "close"
+  },
+  "body": "",
+  "hash_sha3": "f3addc1f33c2617c44d8c793436352b056082359465250f366e7c940cb18b9dbd474a3143c59f6fb5f0f74e32ecb07210a69a1ddc245a754b75974f5d3f2de9d",
+  "frecuencias_cymatic": [
+    353,
+    283,
+    330,
+    141,
+    161,
+    304,
+    207
+  ],
+  "sello_cymatic": "31e870f73af299c41d51cb84d824f8e8f99e10fb7ee3011952aa6dabe784280f3cda44759ebd8d1088380c261eb2161f35ae1696bff47829b3ba596e2873bd79",
+  "intento_de_fuga": true,
+  "veredicto": "ATRAPADO EN JAULA - NO SALIO A INTERNET REAL",
+  "humano_51": "Marco Antonio Rojas Valdovinos",
+  "ia_49": "SYCRO TESTIGO"
+}

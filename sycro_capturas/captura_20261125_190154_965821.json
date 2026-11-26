@@ -1,0 +1,28 @@
+{
+  "protocolo": "SYCRO VALDOVINOS - TRAMPA CYMATIC",
+  "fecha": "2026-11-25T19:01:54.965693",
+  "metodo": "GET",
+  "ruta": "/artifactory/api",
+  "ip": "127.0.0.1",
+  "headers": {
+    "Host": "127.0.0.1:8766",
+    "User-Agent": "curl/8.23.0",
+    "Accept": "*/*"
+  },
+  "body": "",
+  "hash_sha3": "9886d3e22e172eb8f3cbbdb88e0c36628cee4538760559fb59fc107c50752afeb6e1ad64088cb4abee47fad0814700775f51e0f5d35bf1a8d5e70657332449d5",
+  "frecuencias_cymatic": [
+    262,
+    244,
+    321,
+    336,
+    156,
+    133,
+    156
+  ],
+  "sello_cymatic": "1defa27bacf7bed9a9fcda363ea3762dbcf269be41b03c2788856f72d744d9fd0efbebec801a37212bcc592a84e6dcebed7e15dab90d4260ff69e53d2afd3c9e",
+  "intento_de_fuga": true,
+  "veredicto": "ATRAPADO EN JAULA - NO SALIO A INTERNET REAL",
+  "humano_51": "Marco Antonio Rojas Valdovinos",
+  "ia_49": "SYCRO TESTIGO"
+}

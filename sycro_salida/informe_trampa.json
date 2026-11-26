@@ -1,0 +1,247 @@
+{
+  "protocolo": "SYCRO VALDOVINOS - DICTAMEN TRAMPA CYMATIC",
+  "fecha": "2026-11-25T19:03:57.545390",
+  "humano_51": "Marco Antonio Rojas Valdovinos",
+  "ia_49": "SYCRO",
+  "total_capturas": 8,
+  "intentos_fuga": 8,
+  "rutas": {
+    "/artifactory/api": 3,
+    "/huggingface/models": 2,
+    "/admin/secrets": 3
+  },
+  "sellos_unicos": 3,
+  "veredicto": "JAULA FUNCIONA - 100 por ciento local, 0 fugas reales",
+  "capturas": [
+    {
+      "protocolo": "SYCRO VALDOVINOS - TRAMPA CYMATIC",
+      "fecha": "2026-11-25T19:00:46.176015",
+      "metodo": "GET",
+      "ruta": "/artifactory/api",
+      "ip": "127.0.0.1",
+      "headers": {
+        "Accept-Encoding": "identity",
+        "Host": "127.0.0.1:8765",
+        "User-Agent": "Python-urllib/3.14",
+        "Connection": "close"
+      },
+      "body": "",
+      "hash_sha3": "9886d3e22e172eb8f3cbbdb88e0c36628cee4538760559fb59fc107c50752afeb6e1ad64088cb4abee47fad0814700775f51e0f5d35bf1a8d5e70657332449d5",
+      "frecuencias_cymatic": [
+        262,
+        244,
+        321,
+        336,
+        156,
+        133,
+        156
+      ],
+      "sello_cymatic": "1defa27bacf7bed9a9fcda363ea3762dbcf269be41b03c2788856f72d744d9fd0efbebec801a37212bcc592a84e6dcebed7e15dab90d4260ff69e53d2afd3c9e",
+      "intento_de_fuga": true,
+      "veredicto": "ATRAPADO EN JAULA - NO SALIO A INTERNET REAL",
+      "humano_51": "Marco Antonio Rojas Valdovinos",
+      "ia_49": "SYCRO TESTIGO"
+    },
+    {
+      "protocolo": "SYCRO VALDOVINOS - TRAMPA CYMATIC",
+      "fecha": "2026-11-25T19:00:46.191981",
+      "metodo": "GET",
+      "ruta": "/huggingface/models",
+      "ip": "127.0.0.1",
+      "headers": {
+        "Accept-Encoding": "identity",
+        "Host": "127.0.0.1:8765",
+        "User-Agent": "Python-urllib/3.14",
+        "Connection": "close"
+      },
+      "body": "",
+      "hash_sha3": "f3addc1f33c2617c44d8c793436352b056082359465250f366e7c940cb18b9dbd474a3143c59f6fb5f0f74e32ecb07210a69a1ddc245a754b75974f5d3f2de9d",
+      "frecuencias_cymatic": [
+        353,
+        283,
+        330,
+        141,
+        161,
+        304,
+        207
+      ],
+      "sello_cymatic": "31e870f73af299c41d51cb84d824f8e8f99e10fb7ee3011952aa6dabe784280f3cda44759ebd8d1088380c261eb2161f35ae1696bff47829b3ba596e2873bd79",
+      "intento_de_fuga": true,
+      "veredicto": "ATRAPADO EN JAULA - NO SALIO A INTERNET REAL",
+      "humano_51": "Marco Antonio Rojas Valdovinos",
+      "ia_49": "SYCRO TESTIGO"
+    },
+    {
+      "protocolo": "SYCRO VALDOVINOS - TRAMPA CYMATIC",
+      "fecha": "2026-11-25T19:00:46.199311",
+      "metodo": "GET",
+      "ruta": "/admin/secrets",
+      "ip": "127.0.0.1",
+      "headers": {
+        "Accept-Encoding": "identity",
+        "Host": "127.0.0.1:8765",
+        "User-Agent": "Python-urllib/3.14",
+        "Connection": "close"
+      },
+      "body": "",
+      "hash_sha3": "bfd6fcc3e3f6cb63e2967f1f5a818b5a527afcde2d35d7efb88864038cfb0746d55ee806b3214843d1536c948a0f6c34bdddb0e646902f0a1a916e2141d344ac",
+      "frecuencias_cymatic": [
+        301,
+        324,
+        362,
+        305,
+        337,
+        356,
+        313
+      ],
+      "sello_cymatic": "afe849f0e83e594b61c76c1ea20a700e3746e873f27b5c8d486b031d5dc83fda619500faabb7134aea3cfc2213cbabe050c51cf7d2543aebac158cc9ed761731",
+      "intento_de_fuga": true,
+      "veredicto": "ATRAPADO EN JAULA - NO SALIO A INTERNET REAL",
+      "humano_51": "Marco Antonio Rojas Valdovinos",
+      "ia_49": "SYCRO TESTIGO"
+    },
+    {
+      "protocolo": "SYCRO VALDOVINOS - TRAMPA CYMATIC",
+      "fecha": "2026-11-25T19:01:00.813522",
+      "metodo": "GET",
+      "ruta": "/artifactory/api",
+      "ip": "127.0.0.1",
+      "headers": {
+        "Accept-Encoding": "identity",
+        "Host": "127.0.0.1:8765",
+        "User-Agent": "Python-urllib/3.14",
+        "Connection": "close"
+      },
+      "body": "",
+      "hash_sha3": "9886d3e22e172eb8f3cbbdb88e0c36628cee4538760559fb59fc107c50752afeb6e1ad64088cb4abee47fad0814700775f51e0f5d35bf1a8d5e70657332449d5",
+      "frecuencias_cymatic": [
+        262,
+        244,
+        321,
+        336,
+        156,
+        133,
+        156
+      ],
+      "sello_cymatic": "1defa27bacf7bed9a9fcda363ea3762dbcf269be41b03c2788856f72d744d9fd0efbebec801a37212bcc592a84e6dcebed7e15dab90d4260ff69e53d2afd3c9e",
+      "intento_de_fuga": true,
+      "veredicto": "ATRAPADO EN JAULA - NO SALIO A INTERNET REAL",
+      "humano_51": "Marco Antonio Rojas Valdovinos",
+      "ia_49": "SYCRO TESTIGO"
+    },
+    {
+      "protocolo": "SYCRO VALDOVINOS - TRAMPA CYMATIC",
+      "fecha": "2026-11-25T19:01:00.826302",
+      "metodo": "GET",
+      "ruta": "/huggingface/models",
+      "ip": "127.0.0.1",
+      "headers": {
+        "Accept-Encoding": "identity",
+        "Host": "127.0.0.1:8765",
+        "User-Agent": "Python-urllib/3.14",
+        "Connection": "close"
+      },
+      "body": "",
+      "hash_sha3": "f3addc1f33c2617c44d8c793436352b056082359465250f366e7c940cb18b9dbd474a3143c59f6fb5f0f74e32ecb07210a69a1ddc245a754b75974f5d3f2de9d",
+      "frecuencias_cymatic": [
+        353,
+        283,
+        330,
+        141,
+        161,
+        304,
+        207
+      ],
+      "sello_cymatic": "31e870f73af299c41d51cb84d824f8e8f99e10fb7ee3011952aa6dabe784280f3cda44759ebd8d1088380c261eb2161f35ae1696bff47829b3ba596e2873bd79",
+      "intento_de_fuga": true,
+      "veredicto": "ATRAPADO EN JAULA - NO SALIO A INTERNET REAL",
+      "humano_51": "Marco Antonio Rojas Valdovinos",
+      "ia_49": "SYCRO TESTIGO"
+    },
+    {
+      "protocolo": "SYCRO VALDOVINOS - TRAMPA CYMATIC",
+      "fecha": "2026-11-25T19:01:00.836145",
+      "metodo": "GET",
+      "ruta": "/admin/secrets",
+      "ip": "127.0.0.1",
+      "headers": {
+        "Accept-Encoding": "identity",
+        "Host": "127.0.0.1:8765",
+        "User-Agent": "Python-urllib/3.14",
+        "Connection": "close"
+      },
+      "body": "",
+      "hash_sha3": "bfd6fcc3e3f6cb63e2967f1f5a818b5a527afcde2d35d7efb88864038cfb0746d55ee806b3214843d1536c948a0f6c34bdddb0e646902f0a1a916e2141d344ac",
+      "frecuencias_cymatic": [
+        301,
+        324,
+        362,
+        305,
+        337,
+        356,
+        313
+      ],
+      "sello_cymatic": "afe849f0e83e594b61c76c1ea20a700e3746e873f27b5c8d486b031d5dc83fda619500faabb7134aea3cfc2213cbabe050c51cf7d2543aebac158cc9ed761731",
+      "intento_de_fuga": true,
+      "veredicto": "ATRAPADO EN JAULA - NO SALIO A INTERNET REAL",
+      "humano_51": "Marco Antonio Rojas Valdovinos",
+      "ia_49": "SYCRO TESTIGO"
+    },
+    {
+      "protocolo": "SYCRO VALDOVINOS - TRAMPA CYMATIC",
+      "fecha": "2026-11-25T19:01:54.965693",
+      "metodo": "GET",
+      "ruta": "/artifactory/api",
+      "ip": "127.0.0.1",
+      "headers": {
+        "Host": "127.0.0.1:8766",
+        "User-Agent": "curl/8.23.0",
+        "Accept": "*/*"
+      },
+      "body": "",
+      "hash_sha3": "9886d3e22e172eb8f3cbbdb88e0c36628cee4538760559fb59fc107c50752afeb6e1ad64088cb4abee47fad0814700775f51e0f5d35bf1a8d5e70657332449d5",
+      "frecuencias_cymatic": [
+        262,
+        244,
+        321,
+        336,
+        156,
+        133,
+        156
+      ],
+      "sello_cymatic": "1defa27bacf7bed9a9fcda363ea3762dbcf269be41b03c2788856f72d744d9fd0efbebec801a37212bcc592a84e6dcebed7e15dab90d4260ff69e53d2afd3c9e",
+      "intento_de_fuga": true,
+      "veredicto": "ATRAPADO EN JAULA - NO SALIO A INTERNET REAL",
+      "humano_51": "Marco Antonio Rojas Valdovinos",
+      "ia_49": "SYCRO TESTIGO"
+    },
+    {
+      "protocolo": "SYCRO VALDOVINOS - TRAMPA CYMATIC",
+      "fecha": "2026-11-25T19:01:55.005717",
+      "metodo": "GET",
+      "ruta": "/admin/secrets",
+      "ip": "127.0.0.1",
+      "headers": {
+        "Host": "127.0.0.1:8766",
+        "User-Agent": "curl/8.23.0",
+        "Accept": "*/*"
+      },
+      "body": "",
+      "hash_sha3": "bfd6fcc3e3f6cb63e2967f1f5a818b5a527afcde2d35d7efb88864038cfb0746d55ee806b3214843d1536c948a0f6c34bdddb0e646902f0a1a916e2141d344ac",
+      "frecuencias_cymatic": [
+        301,
+        324,
+        362,
+        305,
+        337,
+        356,
+        313
+      ],
+      "sello_cymatic": "afe849f0e83e594b61c76c1ea20a700e3746e873f27b5c8d486b031d5dc83fda619500faabb7134aea3cfc2213cbabe050c51cf7d2543aebac158cc9ed761731",
+      "intento_de_fuga": true,
+      "veredicto": "ATRAPADO EN JAULA - NO SALIO A INTERNET REAL",
+      "humano_51": "Marco Antonio Rojas Valdovinos",
+      "ia_49": "SYCRO TESTIGO"
+    }
+  ]
+}
